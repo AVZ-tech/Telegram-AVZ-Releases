@@ -6,15 +6,24 @@ Source code is not stored in this repository.
 
 ## Download
 
-Open the **Releases** page and download the latest APK asset.
+Download the latest APK from the **Releases** page:
 
-## Install
+https://github.com/AVZ-tech/Telegram-AVZ-Releases/releases/latest
 
-Download:
+APK file:
 
 `telegram-avz-afat-release.apk`
 
-Then install it on Android.
+## Install
+
+1. Open the latest release.
+2. Download `telegram-avz-afat-release.apk`.
+3. Install it on Android.
+4. If Android warns about installing apps from unknown sources, allow installation for your browser or file manager.
+
+## Package
+
+`org.telegram.messenger.avz.beta`
 
 ## License / Source code
 
